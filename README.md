@@ -1,11 +1,11 @@
 # FJE-new
 一、类图
 
-  根目录下classpicture.jpg文件。
+	根目录下classpicture.jpg文件。
 
 二、设计模式说明
 
-  1、迭代器模式（Iterator）：用于构建和返回复杂的 JSON 渲染结构，实现了JSONIterator。
+	1、迭代器模式（Iterator）：用于构建和返回复杂的 JSON 渲染结构，实现了JSONIterator。
  
 	2、策略模式（Strategy）：用于提供风格和图标族的策略，在本项目中已实现树形、矩形风格策略以及卡牌、几何符号策略，并通过Context对象实现了对策略的应用。
  
