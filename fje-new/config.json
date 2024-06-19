@@ -1,0 +1,10 @@
+{
+    "style_strategies": {
+        "tree": "style_strategies.TreeStyleStrategy.TreeStyle",
+        "rectangle": "style_strategies.RectangleStyleStrategy.RectangleStyle"
+    },
+    "icon_family_strategies": {
+        "card": "icon_family_strategies.CardStrategy.Card",
+        "geometry": "icon_family_strategies.GeometryStrategy.Geometry"
+    }
+}
